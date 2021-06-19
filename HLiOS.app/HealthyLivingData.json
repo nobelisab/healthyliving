@@ -1,0 +1,129 @@
+ [
+    {
+        "name": "Are they Thinking About the Grapes?",
+        "artist": "Francois Boucher",
+        "year": "null",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "boucher"
+    },
+    {
+        "name": "Fisherman and His Boat",
+        "artist": "Vincent Van Gogh",
+        "year": "null",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "vangogh"
+    },
+    {
+        "name": "Sisters on the Terrace",
+        "artist": "Pierre Renoir",
+        "year": "null",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "renoir"
+    },
+    {
+        "name": "Lady with Umbrella in Boat",
+        "artist": "Vologov",
+        "year": "null",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "vologov"
+    },
+    {
+        "name": "Blossom Flowers",
+        "artist": "Vincent Van Gogh",
+        "year": "null",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "vangoghblossom"
+    },
+    {
+        "name": "Calla Lily",
+        "artist": "Georgia O'Keefe",
+        "year": "null",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "okeefe"
+    },
+    {
+        "name": "Water Lilies",
+        "artist": "Claude Monet",
+        "year": "null",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "monetlilies"
+    },
+    {
+        "name": "Irises Detail",
+        "artist": "Claude Monet",
+        "year": "null",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "monetirises"
+    },
+    {
+        "name": "Couples",
+        "artist": "Chi Wen",
+        "year": "null",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae.",
+        "imageName": "chiwen"
+    }
+]
+
